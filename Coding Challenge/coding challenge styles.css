@@ -1,0 +1,93 @@
+body{
+  background-image: url(/Users/ildestramandinoli/Downloads/Unknown/background.jpg);
+  background-size: cover;
+}
+
+.tutto{
+  background:rgba(0,0,0,0.5);
+  border-radius:10px;
+  width:100%;
+
+}
+
+.font{
+  font-family: sans-serif;
+}
+
+
+
+.font{
+  font-style: sans-serif;
+  font-size: 30px;
+  color:#66FF00;
+}
+
+.logo{
+  width:250px;
+}
+
+.imgcontainer{
+  width:1000px;
+  margin:100px;
+  text-align: center;
+  margin-bottom: auto;
+}
+
+.textcontainer{
+  width:1000px;
+  margin-left: 100px;
+  margin-top: 30px;
+  color:white;
+  font-family: sans-serif;
+
+}
+
+.button3{
+  background-color: #66FF00;
+  padding:20px;
+}
+
+.border{
+  border-radius: 0px;
+}
+
+.subject{
+  font-size: 20px;
+}
+
+.text1{
+  font-size: 20px;
+}
+
+.quadrato{
+  width:230px;
+  height:30px;
+  background-color:orange;
+  border-radius: 10px;
+}
+
+.text2{
+  font-size:20px;
+}
+
+.inline{
+  display:block;
+}
+
+.quadrato2{
+  width:400px;
+  height:30px;
+  background-color:#009933;
+  border-radius:10px;
+}
+
+.text3{
+  font-size:20px;
+}
+
+.quadrato3{
+  width:150px;
+  height:30px;
+  background-color: #CC0033;
+  border-radius:10px;
+}
